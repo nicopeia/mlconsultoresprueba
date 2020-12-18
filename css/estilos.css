@@ -144,7 +144,7 @@ color:#fff;
   } */
   /* Since positioning the image, we need to help out the caption */
   .carousel-caption {
-    margin-bottom:2rem;
+    margin-bottom:1rem;
     z-index: 10;
   }
 
